@@ -1,0 +1,34 @@
+{
+  "name": "wech-e-at",
+  "version": "0.0.0",
+  "description": "generate customized scrennshots of wechat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etanxing/wech-e-at.git"
+  },
+  "keywords": [
+    "wechat",
+    "fun",
+    "workswell"
+  ],
+  "author": "William XING",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etanxing/wech-e-at/issues"
+  },
+  "homepage": "https://github.com/etanxing/wech-e-at",
+  "dependencies": {
+    "vue": "^0.10.5"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-compass": "^0.9.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "matchdep": "^0.3.0"
+  }
+}
